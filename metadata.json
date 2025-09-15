@@ -1,0 +1,6 @@
+{
+  "name": "Imagen Banner Generator",
+  "description": "An application that uses Google's Imagen model to generate high-quality banner art from a text prompt. Users can describe a scene, and the AI will create a 16:9 aspect ratio banner image.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
